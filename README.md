@@ -1,0 +1,14 @@
+# Stacks
+- Typescript
+- Qwik
+- Vite
+- ESlint
+- Prettier
+- Express.js
+- Node.js
+- Nest.js
+- Tailwind CSS
+- Vanilla Extract
+- Firebase
+- Jest
+- Google Analytics
