@@ -1,0 +1,8 @@
+{
+    "workspaces": [
+      "APP",
+      "SERVER",
+      "DB"
+    ]
+  }
+  
